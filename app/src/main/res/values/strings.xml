@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">My MvpFunDemo</string>
+
+    //Registration Scree
+    <string name="hint_name">Name</string>
+    <string name="hint_mobile">Mobile</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_logout">Logout</string>
+    <string name="btn_edit">Edit</string>
+    <string name="text_register">Register?</string>
+    <string name="text_welcome">Welcome</string>
+    <string name="err_login">Login failed</string>
+    <string name="msg_login_success">Login Successful</string>
+    <string name="err_image">Cant open image</string>
+    <string name="err_username">Please enter username</string>
+    <string name="err_phone">Please enter phone number</string>
+    <string name="err_email">Please enter email</string>
+    <string name="err_password">Please enter password</string>
+    <string name="err_user_exist">User already exist</string>
+</resources>
